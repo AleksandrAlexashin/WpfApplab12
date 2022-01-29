@@ -16,8 +16,8 @@
                             <Path x:Name="x" Fill="Gray" Stroke="Gray" StrokeThickness="5"  VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="0">
                                 <Path.Data>
                                     <GeometryGroup>
-                                        <LineGeometry StartPoint="2,1" EndPoint="18,17"/>
-                                        <LineGeometry StartPoint="2,16" EndPoint="18,2"/>
+                                        <LineGeometry StartPoint="2,0" EndPoint="18,18"/>
+                                        <LineGeometry StartPoint="2,18" EndPoint="18,0"/>
                                     </GeometryGroup>
                                 </Path.Data>
                             </Path>
